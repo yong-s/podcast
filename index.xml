@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小声TT</title>
+    <link>https://pdca.zsan.ml/</link>
+    <description>Recent content on 小声TT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <atom:link href="https://pdca.zsan.ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://pdca.zsan.ml/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pdca.zsan.ml/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://pdca.zsan.ml/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pdca.zsan.ml/search/</guid>
+      <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;
+&lt;p class=&#34;search-loading status message hidden&#34;&gt;Loading search index…&lt;/p&gt;
+
+&lt;div class=&#34;search-input hidden&#34;&gt;
+  &lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;
+    &lt;label for=&#34;query&#34; class=&#34;visually-hidden&#34;&gt;Search&lt;/label&gt;
+    &lt;input type=&#34;search&#34; id=&#34;query&#34; name=&#34;query&#34; class=&#34;search-text&#34; placeholder=&#34;Enter the terms you wish to search for.&#34; maxlength=&#34;128&#34;&gt;
+    &lt;button type=&#34;submit&#34; name=&#34;submit&#34; class=&#34;form-submit&#34; &gt;Search&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;
+
+&lt;template&gt;
+  &lt;article class=&#34;search-result list-view&#34;&gt;
+    &lt;header&gt;
+      &lt;h2 class=&#34;title title-submitted&#34;&gt;&lt;a href=&#34;#&#34;&gt;Title here&lt;/a&gt;&lt;/h2&gt;
+      &lt;div class=&#34;submitted&#34;&gt;&lt;time class=&#34;created-date&#34;&gt;Date here&lt;/time&gt;&lt;/div&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;content&#34;&gt;Summary here&lt;/div&gt;
+  &lt;/article&gt;
+&lt;/template&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
