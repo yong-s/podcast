@@ -6,7 +6,7 @@
     <description>Listen to a music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 10 Jul 2022 23:43:55 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2022 00:35:38 +0800</lastBuildDate>
     <itunes:image href="https://pdca.zsan.ml/images/zen.png" />
     <itunes:category text="music">
       
@@ -22,6 +22,23 @@
     
     
     <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>孤勇者-超A燃炸-祖娅纳惜</title>
+      <itunes:title>孤勇者-超A燃炸-祖娅纳惜</itunes:title>
+      <link>https://pdca.zsan.ml/podcast/lone-brave/</link>
+      <guid>https://pdca.zsan.ml/podcast/lone-brave/</guid>
+      <pubDate>Tue, 12 Jul 2022 00:35:38 +0800</pubDate>
+      <description></description>
+      <enclosure url="http://101.132.125.65:9000/podcast/%E5%AD%A4%E5%8B%87%E8%80%85%E5%A5%B3%E5%A3%B0%E7%89%88-%E8%B6%85A%E7%87%83%E7%82%B8.mp3" type="audio/mpeg" />
+      <itunes:duration>04:30</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
     <item>
       <title>南山姑娘</title>
