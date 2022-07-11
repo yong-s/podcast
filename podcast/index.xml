@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>xstt</title>
+    <link>https://pdca.zsan.ml/podcast/</link>
+    <description>Listen to a music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 10 Jul 2022 23:43:55 +0800</lastBuildDate>
+    <itunes:image href="https://pdca.zsan.ml/images/zen.png" />
+    <itunes:category text="music">
+      
+    </itunes:category>
+    <itunes:owner>
+    <itunes:name>xsbb</itunes:name>
+    
+    </itunes:owner>
+    <itunes:summary>Listen to a music</itunes:summary>
+    <itunes:author>xsbb</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>true</itunes:block>
+    
+    
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>南山姑娘</title>
+      <itunes:title>南山姑娘</itunes:title>
+      <link>https://pdca.zsan.ml/podcast/south-mountain-girl/</link>
+      <guid>https://pdca.zsan.ml/podcast/south-mountain-girl/</guid>
+      <pubDate>Sun, 10 Jul 2022 23:43:55 +0800</pubDate>
+      <description></description>
+      <enclosure url="http://101.132.125.65:9000/podcast/%E8%B5%B5%E9%9B%B7%20-%20%E5%8D%97%E6%96%B9%E5%A7%91%E5%A8%98.mp3" type="audio/mpeg" />
+      <itunes:duration>05:34</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>修炼爱情</title>
+      <itunes:title>修炼爱情</itunes:title>
+      <link>https://pdca.zsan.ml/podcast/cultivating-love/</link>
+      <guid>https://pdca.zsan.ml/podcast/cultivating-love/</guid>
+      <pubDate>Sun, 10 Jul 2022 19:03:24 +0800</pubDate>
+      <description></description>
+      <enclosure url="http://101.132.125.65:9000/podcast/%E4%BF%AE%E7%82%BC%E7%88%B1%E6%83%85%20-%20%E6%9E%97%E4%BF%8A%E6%9D%B0.mp3" type="audio/mpeg" />
+      <itunes:duration>04:47</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>

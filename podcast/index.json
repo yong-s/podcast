@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Podcast on 小声TT",
+    "description": "Recent content in Podcast on 小声TT",
+    "home_page_url": "https://pdca.zsan.ml/",
+    "feed_url": "https://pdca.zsan.ml/podcast/index.json",
+    "language": "en-GB",
+    "icon": "https://pdca.zsan.ml/apple-touch-icon.png",
+    "favicon": "https://pdca.zsan.ml/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "tt"
+        }
+    ],
+    "items": [
+        {
+            "title": "南山姑娘",
+            "date_published": "2022-07-10T23:43:55+08:00",
+            "date_modified": "2022-07-10T23:43:55+08:00",
+            "id": "https://pdca.zsan.ml/podcast/south-mountain-girl/",
+            "url": "https://pdca.zsan.ml/podcast/south-mountain-girl/",
+            "content_html": ""
+        },
+        {
+            "title": "修炼爱情",
+            "date_published": "2022-07-10T19:03:24+08:00",
+            "date_modified": "2022-07-10T19:03:24+08:00",
+            "id": "https://pdca.zsan.ml/podcast/cultivating-love/",
+            "url": "https://pdca.zsan.ml/podcast/cultivating-love/",
+            "content_html": ""
+        }
+        ]
+}
