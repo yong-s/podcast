@@ -41,15 +41,15 @@
     </item>
     
     <item>
-      <title>南山姑娘</title>
-      <itunes:title>南山姑娘</itunes:title>
+      <title>南山姑娘--赵雷</title>
+      <itunes:title>南山姑娘--赵雷</itunes:title>
       <link>https://pdca.zsan.ml/podcast/south-mountain-girl/</link>
       <guid>https://pdca.zsan.ml/podcast/south-mountain-girl/</guid>
       <pubDate>Sun, 10 Jul 2022 23:43:55 +0800</pubDate>
       <description></description>
       <enclosure url="http://101.132.125.65:9000/podcast/%E8%B5%B5%E9%9B%B7%20-%20%E5%8D%97%E6%96%B9%E5%A7%91%E5%A8%98.mp3" type="audio/mpeg" />
       <itunes:duration>05:34</itunes:duration>
-      
+      <itunes:image href="https://pdca.zsan.ml/images/hdoll.jpg" />
       
       
       
@@ -58,8 +58,8 @@
     </item>
     
     <item>
-      <title>修炼爱情</title>
-      <itunes:title>修炼爱情</itunes:title>
+      <title>修炼爱情--林俊杰</title>
+      <itunes:title>修炼爱情--林俊杰</itunes:title>
       <link>https://pdca.zsan.ml/podcast/cultivating-love/</link>
       <guid>https://pdca.zsan.ml/podcast/cultivating-love/</guid>
       <pubDate>Sun, 10 Jul 2022 19:03:24 +0800</pubDate>
